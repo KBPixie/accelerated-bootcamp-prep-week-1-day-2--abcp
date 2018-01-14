@@ -16,9 +16,9 @@ for (i= 0; i < names.length; i++){
   console.log
 }
 
-<!--forEach
+//
 
 [1, 2, 3].forEach(function(element)){
   console.log(name);
-}
+} -->
 
